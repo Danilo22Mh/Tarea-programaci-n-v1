@@ -8,7 +8,6 @@ Grupo 4
 
 Algoritmo  temperatura
 	definir temp como real;
-	
 	escribir "ingrese su temperatura:";
 	leer temp;
 	
