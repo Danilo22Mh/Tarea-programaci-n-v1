@@ -6,9 +6,9 @@ Grupo 4
 
 -Algoritmo en Pseint:
 
+
 Algoritmo  temperatura
 	definir temp como real;
-	
 	escribir "ingrese su temperatura:";
 	leer temp;
 	
